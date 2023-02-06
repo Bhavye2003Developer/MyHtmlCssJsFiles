@@ -1,0 +1,54 @@
+/* TAG SELECTOR */
+
+h1 {
+
+    /* Selector {
+        property1 : value1;
+        property2 : valu2;
+    } */
+
+    color: red;
+}
+
+img {
+    background-color: #93BFCF;
+}
+
+
+img:hover{
+    background-color: palevioletred;
+}
+
+/* psedo_class -> class:hover{
+    psedo_class -> hover
+
+} */
+
+
+/* CLASS SELECTOR -> Specific styling choices */
+
+.bacon {
+    background-color: greenyellow;
+}
+.bacon:hover{
+    background-color: cadetblue;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+    /* background-color: blue; */
+}
+
+.head1 {
+    color: green;
+}
+
+/* ID SELECTOR  */
+
+#heading {
+    color: brown;
+}

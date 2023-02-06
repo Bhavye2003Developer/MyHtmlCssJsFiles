@@ -1,0 +1,26 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    /* background-color: red; */
+    /* border-style: dashed; */
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 2px;
+    border-color: gray;
+    width: 20%;
+}
+
+h1 {
+    color: #66BFBF; 
+}
+
+h3  {
+    color: #66BFBF; 
+    font-style: italic;
+}
+
+.myFirst{
+    color:red;
+}
