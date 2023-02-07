@@ -1,0 +1,58 @@
+div{
+    background-color: #e4f9f5;
+}
+
+body{
+    margin: 0px;
+}
+
+.top-Container{
+    height: 515px;
+    /* border: solid 10px;
+    padding: 20px; */
+}
+
+.Middle-Container{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    position: relative;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    left: 1px;
+    /* left: 100px; */
+    /* bottom: 20px; */
+    /* border: solid 20px;
+    margin-left: 260px; */
+}
+
+.Bottom-Container{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    display: inline-block;
+    margin-bottom: 20px;
+    /* border: solid 10px;
+    margin-left: 500px; */
+}
+
+.Third-Container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 20px;
+    right: 3px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.SecondCloud {
+    position: relative;  
+    left: 80px; 
+    /* position has to be relative as it is shifting right with respect to its old position */
+}
